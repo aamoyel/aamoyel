@@ -6,10 +6,10 @@
 [![Discord Badge](https://img.shields.io/badge/-Alesio7681-7289DA?style=flat&logo=discord&logoColor=white)]()
 [![Spotify Badge](https://img.shields.io/badge/-AlanAmoyel-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=French+DevOps+Administrator;Open-Source+and+CNCF+enthusiast;I+use+Arch+BTW;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=French+SRE;Open-Source+and+CNCF+enthusiast;I+use+Arch+BTW;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ## 📡 Current Status :
-- 💼 DevOps Administrator at LTU Tech.
+- 💼 Site Reliability Engineer at LTU Tech.
 - 🖥️ Casual tech Twitch streamer ! [Join me here](https://www.twitch.tv/alesio_aa) !
 - 🎸 Individual bass player.
 - 🎵 Love Jazz and Funky music.
