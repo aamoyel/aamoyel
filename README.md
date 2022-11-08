@@ -6,10 +6,10 @@
 [![Discord Badge](https://img.shields.io/badge/-Alesio7681-7289DA?style=flat&logo=discord&logoColor=white)]()
 [![Spotify Badge](https://img.shields.io/badge/-AlanAmoyel-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=French+SRE;Open-Source+and+CNCF+enthusiast;I+use+Arch+BTW;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=French+SRE;Open-Source+and+CNCF+enthusiast;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ## 📡 Current Status :
-- 💼 Site Reliability Engineer at LTU Tech.
+- 💼 Site Reliability Engineer at [S3NS](https://www.s3ns.io).
 - 🖥️ Casual tech Twitch streamer ! [Join me here](https://www.twitch.tv/alesio_aa) !
 - 🎸 Individual bass player.
 - 🎵 Love Jazz and Funky music.
@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Vault-FFFFFF?style=for-the-badge&logo=vault&logoColor=black">
 <img src="https://img.shields.io/badge/Harbor-00364d?style=for-the-badge&logo=harbor&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-f17028?style=for-the-badge&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/FluxCD-516BAA?style=for-the-badge&logo=fluxcd&logoColor=white">
 <img src="https://img.shields.io/badge/ArgoCD-f37430?style=for-the-badge&logo=argocd&logoColor=white">
 <img src="https://img.shields.io/badge/HAProxy-243d5a?style=for-the-badge&logo=haproxy&logoColor=white">
 <img src="https://img.shields.io/badge/Traefik-2299b7?style=for-the-badge&logo=go&logoColor=white">
