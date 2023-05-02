@@ -73,7 +73,7 @@
 </br>
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api?username=aamoyel&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aamoyel)
+[![](https://github-readme-stats.vercel.app/api?username=aamoyel&show_icons=true&theme=tokyonight&hide_border=true&locale=en&range=all_time)](https://github.com/aamoyel)
 
 </div>
 </div>
