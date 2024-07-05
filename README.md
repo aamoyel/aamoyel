@@ -1,7 +1,7 @@
 # Hi, I'm Alan Amoyel 👋
 [![Linkedin Badge](https://img.shields.io/badge/-aamoyel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-amoyel-82b86a15b/)](https://www.linkedin.com/in/alan-amoyel-82b86a15b/)
 [![Website Badge](https://img.shields.io/badge/-amoyel.fr-800000?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://amoyel.fr)
-[![Twitter Badge](https://img.shields.io/badge/-@AlanAmoyel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/AlanAmoyel)
+[![X Badge](https://img.shields.io/badge/-@AlanAmoyel-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/_jesslim)](https://x.com/AlanAmoyel)
 [![Twitch Badge](https://img.shields.io/badge/-Alesio_AA-purple?style=flat&logo=twitch&logoColor=white&link=https://www.twitch.tv/alesio_aa)](https://www.twitch.tv/alesio_aa)
 [![Discord Badge](https://img.shields.io/badge/-Alesio7681-7289DA?style=flat&logo=discord&logoColor=white)]()
 [![Spotify Badge](https://img.shields.io/badge/-AlanAmoyel-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva)
