@@ -6,13 +6,13 @@
 [![Discord Badge](https://img.shields.io/badge/-Alesio7681-7289DA?style=flat&logo=discord&logoColor=white)]()
 [![Spotify Badge](https://img.shields.io/badge/-AlanAmoyel-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=French+SRE;Open-Source+and+CNCF+enthusiast;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=French+Kubernetes+enthusiast;Open-Source+enjoyer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ## 📡 Current Status :
-- 💼 Site Reliability Engineer at [S3NS](https://www.s3ns.io).
+- 💼 Site Reliability Engineer at [Kubo Labs](https://www.kubolabs.io/).
 - 🖥️ Casual tech Twitch streamer ! [Join me here](https://www.twitch.tv/alesio_aa) !
-- 🎸 Individual bass player.
-- 🎵 Love Jazz and Funky music.
+- 🎵 Love Jazz and swing dance styles.
+- 🎸 Like Bass and funky stuff.
 - 🎲 Vice-president of LogicMG organization.
 - 💡 [Learn more about me](https://about.amoyel.fr).
 
@@ -59,13 +59,6 @@
 <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/OPNsense-8d8f92?style=for-the-badge&logo=opnsense&logoColor=white">
 </p>
-
-</br>
-
-## 📜 Certifications :
-<a href="https://www.credly.com/badges/a52342da-84d7-4fe9-ad83-db31c61c0add/public_url"><img width="120px" src="https://lh3.googleusercontent.com/eyP_lHE1sGGFZgZ2UYyMnF5aPg2qoIgNtHXHDxgh_SYSQz4CRsAjKwFBVcZcm5lC3Xtv8Et4vIjPXWyCH_zuN_KRvBCmGJWO8RdTpGNM4mdcj5AyoXJkg0rssxA-6otZEHjZ7kOr" alt="CKA"></a>
-<a href="https://www.credly.com/badges/c3533029-3003-4306-8349-01880339c71a/public_url"><img width="120px" src="https://www.ambient-it.net/wp-content/uploads/2022/04/logo-formation-kcna.png" alt="KCNA"></a>
-
 
 </br>
 
