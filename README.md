@@ -9,10 +9,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=French+Kubernetes+enthusiast;Open-Source+enjoyer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ## 📡 Current Status :
-- 💼 Site Reliability Engineer at [Kubo Labs](https://www.kubolabs.io/).
+- 💼 DevOps at [Kubo Labs](https://www.kubolabs.io/).
 - 🖥️ Casual tech Twitch streamer ! [Join me here](https://www.twitch.tv/alesio_aa) !
 - 🎵 Love Jazz and swing dance styles.
-- 🎸 Like Bass and funky stuff.
+- 🎸 Like bass and funky stuff.
 - 🎲 Vice-president of LogicMG organization.
 - 💡 [Learn more about me](https://about.amoyel.fr).
 
